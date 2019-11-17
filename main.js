@@ -13,6 +13,6 @@ if ((isNaN(numeroScelto) || numeroScelto<1|| numeroScelto>6)) {
         alert('Peccato hai perso...il numero da indovinare era ' + numeroDaIndovinare);
     }
 
-    alert('Vuoi giocare ancora?Ricarica la pagina per ricominciare(F5-> Win, Mac->⌘r)')
+    alert('Vuoi giocare ancora?Ricarica la pagina per ricominciare(F5-> Win, Mac->⌘r)');
 
 }
